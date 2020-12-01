@@ -4,5 +4,5 @@
 
 *示例*   
 
-USERNAME username@example.com
-游百慧 20205610@stu.neu.edu.cn
+USERNAME username@example.com  
+游百慧 20205610@stu.neu.edu.cn  
